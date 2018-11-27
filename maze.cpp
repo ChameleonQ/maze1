@@ -1,7 +1,7 @@
 #include <cstdio>
 #include<cmath>
-#include<time>
-#include<rand>
+#include<ctime>
+
 #include<cstdlib>
 
 int rnd_spot_krypt(int x,int y, int a);
